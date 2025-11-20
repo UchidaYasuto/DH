@@ -17,7 +17,7 @@
 　
  　 
   
-＊データファイル（フォルダ）は以下の2種類
+＊データファイル・データベースは以下の2種類
 
 ### **[Joho-Tsushin_whitepaper_1973-2025.txt](https://drive.google.com/file/d/1cdGCh1VhyhS695MitsK6gX4HFLrqFyFj/view?usp=drive_link)**  
 - 情報通信白書（通信白書）のウェブ上の文書データを、53年分（1973－2025）すべてテキストファイル化
